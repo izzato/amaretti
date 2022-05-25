@@ -1,0 +1,7 @@
+[Bug]Role does not stay on user page validation
+Users can update the creator of projects when not admin (2 issues)
+auth tests
+dusk?
+add admin can do anything tests
+choose media from existing media
+[bug]question mark turn click
