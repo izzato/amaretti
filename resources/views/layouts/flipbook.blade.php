@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ app()->getLocale() }}">
     <head>
+        <meta name="robots" content="noindex,nofollow">
+
         @include('partials.meta')
 
         @yield('head.top')
